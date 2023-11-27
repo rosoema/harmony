@@ -1,7 +1,9 @@
-beautifulsoup4==4.10.0
-dash==2.0.0
-matplotlib==3.4.3
-numpy==1.21.2
-plotly==5.3.1
-requests==2.26.0
-wordcloud==1.10.2
+# requirements.txt
+
+beautifulsoup4==4.12.2
+dash==2.14.1
+numpy==1.26.2
+Pillow==10.1.0
+plotly==5.18.0
+Requests==2.31.0
+wordcloud==1.9.2
