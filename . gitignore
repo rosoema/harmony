@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
+
+# Database file
+database/harmony.db
+
+# Dash generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.sqlite
+
+# Other
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.sqlite
+
+# Ignore the virtual environment
+venv/
